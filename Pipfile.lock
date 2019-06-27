@@ -1,0 +1,41 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "41259b5a7de24a91580a8d1718a961b69073001e198a3086394c40854092f269"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "aliyun-python-sdk-alidns": {
+            "hashes": [
+                "sha256:e4716fd500523077b35f2686a96f353144d00d082def7582ab787ea68b8a8cea"
+            ],
+            "index": "pypi",
+            "version": "==2.0.7"
+        },
+        "aliyun-python-sdk-core-v3": {
+            "hashes": [
+                "sha256:04084a24f8639c0b3f7aceb4bd11a18f2bb67fb25ad81b62c0fd87f4b82f48ff"
+            ],
+            "version": "==2.13.3"
+        },
+        "jmespath": {
+            "hashes": [
+                "sha256:3720a4b1bd659dd2eecad0666459b9788813e032b83e7ba58578e48254e0a0e6",
+                "sha256:bde2aef6f44302dfb30320115b17d030798de8c4110e28d5cf6cf91a7a31074c"
+            ],
+            "version": "==0.9.4"
+        }
+    },
+    "develop": {}
+}
