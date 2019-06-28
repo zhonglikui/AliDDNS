@@ -1,8 +1,8 @@
 {
   "name": "AliDDNS",
   "version": "1.0.0",
-  "AccessKeyId": "LTAI4UW7q96VZhuj",
-  "AccessKeySecret": "yGOINe4D3zJNEl25e1pe4RtAMhDTuU",
+  "AccessKeyId": "LTAIjGSxlGNtrG2I",
+  "AccessKeySecret": "HKBh0jyocmEzfjUy7H6paWIpzas43k",
   "First-level-domain": "likui.site",
-  "Second-level-domain": "www.likui.site"
+  "Second-level-domain": "www"
 }
